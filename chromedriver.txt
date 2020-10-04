@@ -1,0 +1,2 @@
+Baixe o chromedriver e extraina no diretório atual, necessário para o Selenium funcionar:
+https://chromedriver.chromium.org/downloads
